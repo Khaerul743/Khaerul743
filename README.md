@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠 I'm currently working on<br>Building a full-stack Inventory Management System using Node.js, Express, and MongoDB.<br><br>👥 I'm looking to collaborate on<br>Backend projects, API development, or anything related to Node.js.<br><br>🤝 I'm looking for help with<br>Improving my frontend skills and optimizing backend performance.<br><br>🌱 I'm currently learning<br>Authentication (JWT & OAuth), Git workflows, and database optimization.<br><br>💬 Ask me about<br>Node.js, Express.js, MongoDB, Mysql, authentication, API development.<br><br>⚡ Fun fact<br>I started coding in C++ and python before diving into web development!
+🛠 I'm currently working on<br>Building a full-stack Inventory Management System using Node.js, Express, and Mysql.<br><br>👥 I'm looking to collaborate on<br>Backend projects, API development, or anything related to Node.js.<br><br>🤝 I'm looking for help with<br>Improving my frontend skills and optimizing backend performance.<br><br>🌱 I'm currently learning<br>Authentication (JWT & OAuth), Git workflows, and database optimization.<br><br>💬 Ask me about<br>Node.js, Express.js, MongoDB, Mysql, authentication, API development.<br><br>⚡ Fun fact<br>I started coding in C++ and python before diving into web development!
 
 
 ## 🌐 Socials:
